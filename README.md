@@ -1,0 +1,2 @@
+# fortune-teller-using-c-
+The Fortune Teller Project in C++ is a console application, designed to determine the horoscope, and predict the future of user based on date of birth, name, and sex entered. This application can predict what your future will be like, how your health will stand out, what will happen in your relationships, what are your birthstones, what colors are lucky for you, lucky numbers, and many more. These predictions and calculations are based on upon the astrological configuration that occurred at the time of the birth information provided.
